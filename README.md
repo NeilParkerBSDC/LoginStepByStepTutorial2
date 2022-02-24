@@ -1,4 +1,4 @@
-# Login Step By Step Tutorial 1
+# Login Step By Step Tutorial 2
 This is the basic version of a login for a website. This version adds a bit more security, using session variablles t stop users bypassing the **ServerSideValidator.php** Page
 
 It consists of the following files:
