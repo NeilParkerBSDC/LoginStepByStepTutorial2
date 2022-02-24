@@ -17,17 +17,17 @@ This file creates a form to be submited to the **ServerSideValidator.php file** 
 
 This checks the password submitted from the form on ServerSide1.html. If it is the same as the stored password then it send you on to the secure page (ServerSide2.html), otherwise it sends you back to the login page (ServerSide1.html)
 
-### Added from the [previous version:](https://github.com/NeilParkerBSDC/LoginStepByStepTutorial1)
-
--  creates a session variable to pass on a "stamp" saying whether the use has been verified or not
+> Added from the [previous version:](https://github.com/NeilParkerBSDC/LoginStepByStepTutorial1)
+>
+> -  creates a session variable to pass on a "stamp" saying whether the use has been verified or not
 
 ## ServerSide2.html
 
 The "secure" desitniation page
 
-### Added from the [previous version:](https://github.com/NeilParkerBSDC/LoginStepByStepTutorial1)
-
-- Checks whether the session vartiable shows the user has been verified
+> Added from the [previous version:](https://github.com/NeilParkerBSDC/LoginStepByStepTutorial1)
+>
+> - Checks whether the session vartiable shows the user has been verified
 
 ## Diagram
 ```
