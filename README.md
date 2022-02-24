@@ -7,11 +7,11 @@ It consists of the following files:
 
 This file creates a form to be submited to the **ServerSideValidator.php file** which checks the password.
 
-### Added from the [previous version:](https://github.com/NeilParkerBSDC/LoginStepByStepTutorial1)
-
--  The file is not saved as PHP rather than html
--  PHP code checks to see if the user has been returned from the **ServerSideValidator.php** - if the "verified" session variable is not empty then the user must have been returned from the verifyer file, and so an error message is triggered
--  CSS added to display the error message in red
+> Added from the [previous version:](https://github.com/NeilParkerBSDC/LoginStepByStepTutorial1)
+>
+> -  The file is not saved as PHP rather than html
+> -  PHP code checks to see if the user has been returned from the **ServerSideValidator.php** - if the "verified" session variable is not empty then the user must have been returned from the verifyer file, and so an error message is triggered
+> -  CSS added to display the error message in red
 
 ## ServerSideValidator.php
 
