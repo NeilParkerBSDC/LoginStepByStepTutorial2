@@ -23,7 +23,7 @@ This checks the password submitted from the form on ```ServerSide1.html```. If i
 
 ## ServerSide2.html
 
-The "secure" desitniation page
+The "secure" destination page
 
 > Added from the [previous version:](https://github.com/NeilParkerBSDC/LoginStepByStepTutorial1)
 >
